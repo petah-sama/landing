@@ -1,0 +1,13 @@
+.btn {
+  color: white;
+  padding: 15px 30px;
+  border-radius: 30px;
+  margin: 0 10px;
+  display: inline-block;
+  background-color: #01D1A4;
+  transition: box-shadow 0.5s ease;
+}
+
+.btn:hover {
+  box-shadow: -3px 0 5px #7d53de, 0 3px 5px #7d53de, 3px 0 5px #7d53de, 0 -3px 5px #7d53de;
+}
